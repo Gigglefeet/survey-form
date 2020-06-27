@@ -1,3 +1,35 @@
-body {
-	
+#title {
+	text-align: center;
 }
+
+#description {
+	text-align: center;
+}
+body {
+	background-color: #ff00f9;
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+#form-container {
+	text-align: center;
+	background-color: #00ff96;
+	width: auto; 
+	padding: 10px 0 10px 0;
+	margin-left: 300px;
+	margin-right: 300px;
+	border-radius: 10px 10px 10px 10px;
+}
+.name, .email, .age {
+	margin: 10px o 10px 0;
+}
+
+#submit {
+	width: 600px;
+	height: 50px;
+	font-size: 30px;
+	background-color: #00a0ff;
+	border-radius: 10px 10px 10px 10px;
+}
+
+
